@@ -33,7 +33,7 @@
     text-align: center;
 }
 .c4{
-    width: 80%;
+    
     margin-left:10%;
     margin-right: 10%;
     margin-top: 10px;
@@ -168,7 +168,11 @@
     color: rgb(81, 204, 241);
     margin: 30px;
   }
-
+.m1{
+    scroll-timeline:calc(100%); 
+    scroll-behavior: smooth;
+    scroll
+}
   .carousel-video {
     flex: 1;
     display: flex;
